@@ -2,10 +2,6 @@
 
 This repository contains my data analysis works, created as part of my learning and practice journey. The projects focus on converting raw data into meaningful insights using practical tools and techniques.
 
-<p align="center">
-  <img src="images/dashboard.png" width="600">
-</p>
-
 
 
 
